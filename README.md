@@ -1,5 +1,7 @@
 # YouTube WinUI
 
+<p align="center"> <img src="/screenshot.png" alt="Netflix for Windows" width="900"> </p>
+
 If there is sufficient interest or demand, I will also create an English version. 
 YouTubeをWindows向けのWinUI 3アプリとして利用できる初回リリースです。
 
