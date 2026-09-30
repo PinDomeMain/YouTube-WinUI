@@ -1,6 +1,6 @@
 # YouTube WinUI
 
-<p align="center"> <img src="/screenshots.png" alt="Scr" width="900"> </p>
+<p align="center"> <img src="/Screenshots.png" alt="Scr" width="900"> </p>
 
 If there is sufficient interest or demand, I will also create an English version. 
 YouTubeをWindows向けのWinUI 3アプリとして利用できる初回リリースです。
