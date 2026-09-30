@@ -1,6 +1,6 @@
 # YouTube WinUI
 
-If there is sufficient interest or demand, I will also create an English version.
+If there is sufficient interest or demand, I will also create an English version. 
 YouTubeをWindows向けのWinUI 3アプリとして利用できる初回リリースです。
 
 ## 主な機能
